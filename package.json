@@ -1,5 +1,5 @@
 {
-  "name": "next-azure",
+  "name": "checkout-next-azure-poc",
   "version": "0.1.0",
   "author": "Chris Meagher",
   "license": "MIT",
@@ -8,6 +8,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "node server.js",
+    "start:dev": "yarn dev",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix"
   },

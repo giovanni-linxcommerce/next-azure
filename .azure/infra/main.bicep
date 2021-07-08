@@ -1,6 +1,6 @@
 param location string = resourceGroup().location
 
-param projectName string = 'next-azure'
+param projectName string = 'checkout-next-azure-poc'
 
 param environment string
 
